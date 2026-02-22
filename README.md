@@ -22,5 +22,5 @@ Data analysis and machine learning project using an Airbnb dataset from Kaggle. 
 ## Machine Learning Models
 - Linear Regression.
 
-## Author
-Marc Jomerick Lo
+## Dataset Link
+- https://www.kaggle.com/datasets/ashishjangra27/airbnb-dataset?resource=download
